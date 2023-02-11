@@ -1,1 +1,1 @@
-Alx frontend specialisation course
+Alx frontend specialisation course projects.
